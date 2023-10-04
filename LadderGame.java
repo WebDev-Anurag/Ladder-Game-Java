@@ -1,9 +1,7 @@
 import java.security.SecureRandom;
-//import java.util.Scanner;
 
 public class LadderGame {
     public static void main(String[] args) {
-//        Scanner sc = new Scanner(System.in);
         Dice d = new Dice();
         Player p1,p2;
         p1=new Player();
